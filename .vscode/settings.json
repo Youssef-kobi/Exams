@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdlib.h": "c"
+    },
+    "files.exclude": {
+        "infin_add": false,
+        "print_memory": false
+    },
+    "workspace.isHidden": false
+}
